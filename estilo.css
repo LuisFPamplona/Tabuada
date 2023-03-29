@@ -1,0 +1,66 @@
+body {
+    background: rgb(100, 100, 197);
+    font: normal 15pt Arial
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.453);
+    position: relative;
+
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
+
+#res {
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 15px;
+}
+
+#number1 {
+    width: 120px;
+    height: 40px;
+    font-size: larger;
+    margin: auto;
+}
+
+#phr{
+    font-size: 20pt;
+    text-shadow: 1px 1px 0 black;
+}
+
+.button {
+    position: absolute;
+    background-color: crimson;
+    height: 46px;
+    padding: 10px;
+    font-size: 12pt;
+    color: white;
+    font: normal 15pt Arial;
+}
+
+#confirm {
+    margin-left: 20px;
+}
+
+#clean {
+    margin-left: 140px;
+}
+
+#operacoes{
+    margin-left: 20px;
+}
